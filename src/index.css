@@ -500,6 +500,7 @@ button:disabled {
 }
 
 .faq-item {
+  color: #333;
   padding: 10px;
   background-color: var(--FAQBGCOLOR);
   box-shadow: 0 0 5px gray;
@@ -530,7 +531,6 @@ button:disabled {
   margin-top: 10px;
   margin-bottom: 10px;
   font-size: 16px;
-  color: #333;
 }
 
 .faq-answer.open {
