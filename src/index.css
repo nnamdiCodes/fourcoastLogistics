@@ -1327,5 +1327,19 @@ form button:active {
   .hero-writeup p {
     font-size: 1.2rem;
   }
+
+  /* HOME => CHOOSE US SECTION */
+
+  .chooseUsSectionDiv-article {
+    gap: 70px;
+  }
+
+  /* || ABOUT */
+
+  /* ABOUT => VGM SECTION */
+
+  .VMGstatement article {
+    gap: 40px;
+  }
   
 }
