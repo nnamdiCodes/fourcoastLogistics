@@ -1,6 +1,6 @@
 import footerLogo from '../images/FLb&w-logo.PNG'
 import { Link } from "react-router-dom"
-import { FaInstagram, FaFacebook, FaTiktok, FaWhatsapp } from "react-icons/fa" 
+import { FaInstagram, FaTiktok, FaWhatsapp } from "react-icons/fa" 
 
 const Footer = () => {
   return (

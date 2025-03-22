@@ -247,9 +247,11 @@ function App() {
                                 /> }>
         <Route index element={ <Home  
                                 faqs={faqs}
+                                setFaqs={setFaqs}
                                 toggleFaq={toggleFaq}
                                 openIndex={openIndex}
                                 service={service}
+                                setService={setService}
                                 nextService={nextService}
                                 prevService={prevService}
                                 itemsToShow={itemsToShow}
