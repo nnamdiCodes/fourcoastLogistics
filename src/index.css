@@ -508,6 +508,7 @@ button:disabled {
 }
 
 .faq-question {
+  color: #333;
   width: 100%;
   text-align: left;
   background: none;
